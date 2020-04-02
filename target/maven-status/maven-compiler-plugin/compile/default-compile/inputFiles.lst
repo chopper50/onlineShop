@@ -3,6 +3,7 @@
 /Users/yuliu/projects/onlineShop/src/main/java/onlineShop/model/ShippingAddress.java
 /Users/yuliu/projects/onlineShop/src/main/java/onlineShop/model/Product.java
 /Users/yuliu/projects/onlineShop/src/main/java/onlineShop/model/CartItem.java
+/Users/yuliu/projects/onlineShop/src/main/java/onlineShop/controller/HomePageController.java
 /Users/yuliu/projects/onlineShop/src/main/java/onlineShop/model/Customer.java
 /Users/yuliu/projects/onlineShop/src/main/java/onlineShop/ApplicationConfig.java
 /Users/yuliu/projects/onlineShop/src/main/java/onlineShop/model/User.java
@@ -11,4 +12,5 @@
 /Users/yuliu/projects/onlineShop/src/main/java/onlineShop/model/Cart.java
 /Users/yuliu/projects/onlineShop/src/main/java/onlineShop/model/Authorities.java
 /Users/yuliu/projects/onlineShop/src/main/java/onlineShop/log/PaymentAction.java
+/Users/yuliu/projects/onlineShop/src/main/java/onlineShop/SecurityConfig.java
 /Users/yuliu/projects/onlineShop/src/main/java/onlineShop/model/BillingAddress.java
