@@ -9,6 +9,7 @@ import onlineShop.log.PaymentAction;
 
 public class Application {
 	public static void main(String[] args) {
+		@SuppressWarnings("resource")
 		ApplicationContext context = new ClassPathXmlApplicationContext("payment.xml");
 		PaymentAction paymentAction = (PaymentAction) context.getBean("paymentAction");
 		paymentAction.pay(new BigDecimal(2));
