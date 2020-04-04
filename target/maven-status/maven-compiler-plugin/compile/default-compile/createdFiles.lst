@@ -1,6 +1,10 @@
 onlineShop/model/Product.class
+<<<<<<< HEAD
 onlineShop/dao/SalesOrderDao.class
 onlineShop/dao/CartDao.class
+=======
+onlineShop/controller/HomePageController.class
+>>>>>>> 27a244fa1f85938807635abc24281a51f235dacb
 onlineShop/model/ShippingAddress.class
 onlineShop/log/Logger.class
 onlineShop/ApplicationConfig.class
@@ -8,10 +12,16 @@ onlineShop/controller/CartController.class
 onlineShop/Application.class
 onlineShop/model/SalesOrder.class
 onlineShop/model/CartItem.class
+<<<<<<< HEAD
 onlineShop/service/CustomerService.class
 onlineShop/dao/ProductDao.class
 onlineShop/service/SalesOrderService.class
 onlineShop/service/CartItemService.class
+=======
+onlineShop/SecurityConfig.class
+onlineShop/model/Authorities.class
+onlineShop/model/User.class
+>>>>>>> 27a244fa1f85938807635abc24281a51f235dacb
 onlineShop/model/BillingAddress.class
 onlineShop/controller/CartItemController.class
 onlineShop/log/PaymentAction.class

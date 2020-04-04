@@ -44,5 +44,8 @@
 		<servlet-name>onlineShop</servlet-name>
 		<url-pattern>/</url-pattern>
 	</servlet-mapping>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 27a244fa1f85938807635abc24281a51f235dacb
 </web-app>
