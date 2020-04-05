@@ -57,7 +57,7 @@ public class ProductController {
 			Path path = Paths.get("/Users/xxx/products/" + product.getId() + ".jpg");
 
 			// windows
-//			Path path = Paths.get("C:\\products\\" + product.getId() + ".jpg");
+			// Path path = Paths.get("C:\\products\\" + product.getId() + ".jpg");
 			try {
 				image.transferTo(new File(path.toString()));
 			} catch (IllegalStateException | IOException e) {
@@ -72,7 +72,6 @@ public class ProductController {
 		// for MAC : Path path = Paths.get("/Users/xxx/products/" + productId + ".jpg");
 		// For windows
 		Path path = Paths.get("C:\\products\\" + productId + ".jpg");
-
 		if (Files.exists(path)) {
 			try {
 				Files.delete(path);

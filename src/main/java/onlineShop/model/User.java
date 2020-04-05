@@ -23,7 +23,6 @@ public class User implements Serializable {
 	private boolean enabled;
 
 	@OneToOne(mappedBy = "user")
-
 	private Customer customer;
 
 	public int getId() {

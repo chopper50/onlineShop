@@ -3,13 +3,8 @@
 /Users/yuliu/projects/onlineShop/src/main/java/onlineShop/service/CartItemService.java
 /Users/yuliu/projects/onlineShop/src/main/java/onlineShop/service/CartService.java
 /Users/yuliu/projects/onlineShop/src/main/java/onlineShop/model/Product.java
-<<<<<<< HEAD
 /Users/yuliu/projects/onlineShop/src/main/java/onlineShop/controller/CartController.java
 /Users/yuliu/projects/onlineShop/src/main/java/onlineShop/service/SalesOrderService.java
-=======
-/Users/yuliu/projects/onlineShop/src/main/java/onlineShop/model/CartItem.java
-/Users/yuliu/projects/onlineShop/src/main/java/onlineShop/controller/HomePageController.java
->>>>>>> 27a244fa1f85938807635abc24281a51f235dacb
 /Users/yuliu/projects/onlineShop/src/main/java/onlineShop/model/Customer.java
 /Users/yuliu/projects/onlineShop/src/main/java/onlineShop/log/Logger.java
 /Users/yuliu/projects/onlineShop/src/main/java/onlineShop/dao/ProductDao.java
@@ -33,8 +28,4 @@
 /Users/yuliu/projects/onlineShop/src/main/java/onlineShop/model/Cart.java
 /Users/yuliu/projects/onlineShop/src/main/java/onlineShop/log/PaymentAction.java
 /Users/yuliu/projects/onlineShop/src/main/java/onlineShop/SecurityConfig.java
-<<<<<<< HEAD
 /Users/yuliu/projects/onlineShop/src/main/java/onlineShop/controller/CartItemController.java
-=======
-/Users/yuliu/projects/onlineShop/src/main/java/onlineShop/model/BillingAddress.java
->>>>>>> 27a244fa1f85938807635abc24281a51f235dacb

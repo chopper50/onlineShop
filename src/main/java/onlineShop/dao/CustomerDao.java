@@ -26,7 +26,6 @@ public class CustomerDao {
 		Authorities authorities = new Authorities();
 		authorities.setAuthorities("ROLE_USER");
 		authorities.setEmailId(customer.getUser().getEmailId());
-
 		Cart cart = new Cart();
 		cart.setCustomer(customer);
 		customer.setCart(cart);

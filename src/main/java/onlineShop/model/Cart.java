@@ -18,6 +18,7 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 @Entity
 @Table(name = "cart")
 public class Cart implements Serializable {
+
 	private static final long serialVersionUID = 8436097833452420298L;
 
 	@Id

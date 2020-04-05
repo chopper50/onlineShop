@@ -1,3 +1,4 @@
+
 package onlineShop.model;
 
 import java.io.Serializable;
@@ -17,6 +18,7 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 public class CartItem implements Serializable {
 
 	private static final long serialVersionUID = -2455760938054036364L;
+
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private int id;

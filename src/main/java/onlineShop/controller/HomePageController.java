@@ -19,7 +19,7 @@ public class HomePageController {
 			@RequestParam(value = "logout", required = false) String logout) {
 		ModelAndView modelAndView = new ModelAndView();
 		modelAndView.setViewName("login");
-		
+
 		if (error != null) {
 			modelAndView.addObject("error", "Invalid username and Password");
 		}
