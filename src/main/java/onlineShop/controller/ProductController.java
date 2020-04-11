@@ -54,7 +54,7 @@ public class ProductController {
 		if (image != null && !image.isEmpty()) {
 			// Mac
 			// Path path = Paths.get("/Users/xxx/products/" + product.getId() + ".jpg");
-			Path path = Paths.get("/Users/xxx/products/" + product.getId() + ".jpg");
+			Path path = Paths.get("/Users/yuliu/products/" + product.getId() + ".jpg");
 
 			// windows
 			// Path path = Paths.get("C:\\products\\" + product.getId() + ".jpg");
